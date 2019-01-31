@@ -5,7 +5,7 @@ android {
         main_config {
             keyAlias 'key'
             keyPassword '123123'
-            storeFile file('/Users/vladislavvisnevskij/AndroidStudioProjects/LauncherVishnevski/keystores/key.jks')
+            storeFile file('../keystores/key.jks')
             storePassword '123123'
         }
     }
